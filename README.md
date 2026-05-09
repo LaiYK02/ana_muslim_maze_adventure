@@ -12,8 +12,8 @@ Ana Muslim Maze Adventure is a 2D maze-based educational adventure game created 
 </p>
 
 <p align="center">
-  <img src="screenshots/quiz-level.png" width="45%">
-  <img src="screenshots/level3.png" width="45%">
+  <img src="screenshots/shop-menu.png" width="45%">
+  <img src="screenshots/level2.png" width="45%">
 </p>
 
 ---

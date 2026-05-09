@@ -1,0 +1,21 @@
+# Exported games
+
+exports/
+
+# Temporary files
+
+*.tmp
+*.cache
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Node modules (if extensions/plugins use npm)
+
+node_modules/
+
+# Logs
+
+*.log
