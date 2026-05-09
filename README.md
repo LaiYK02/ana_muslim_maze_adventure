@@ -137,6 +137,12 @@ Ana-Muslim-Maze-Adventure/
 
 ---
 
+## Release
+
+Download the latest playable version from the [Releases](../../releases/latest) page.
+
+---
+
 ## Authors
 
 * Lai Yong Kang
